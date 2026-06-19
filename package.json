@@ -1,24 +1,24 @@
-{
-  "name": "smartcontract_docker_andres_alejandro_silva_aguilar",
-  "version": "1.0.0",
-  "description": "Proyecto basico de smart contract en Docker para certificacion digital basada en blockchain.",
-  "main": "index.js",
-  "scripts": {
-    "compile": "hardhat compile",
-    "test": "hardhat test",
-    "demo": "hardhat run scripts/demo.js",
-    "clean": "hardhat clean"
-  },
-  "keywords": [
-    "blockchain",
-    "smart-contract",
-    "docker",
-    "certificados"
-  ],
-  "author": "Andres Alejandro Silva Aguilar",
-  "license": "MIT",
-  "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.0"
-  }
+﻿{
+    "name":  "smartcontract_docker_andres_alejandro_silva_aguilar",
+    "version":  "2.0.0",
+    "description":  "Proyecto basico de smart contract en Docker para certificacion digital basada en blockchain.",
+    "main":  "index.js",
+    "scripts":  {
+                    "compile":  "hardhat compile",
+                    "test":  "hardhat test",
+                    "demo":  "hardhat run scripts/demo.js",
+                    "clean":  "hardhat clean"
+                },
+    "keywords":  [
+                     "blockchain",
+                     "smart-contract",
+                     "docker",
+                     "certificados"
+                 ],
+    "author":  "Andres Alejandro Silva Aguilar",
+    "license":  "MIT",
+    "devDependencies":  {
+                            "@nomicfoundation/hardhat-toolbox":  "^5.0.0",
+                            "hardhat":  "^2.22.0"
+                        }
 }

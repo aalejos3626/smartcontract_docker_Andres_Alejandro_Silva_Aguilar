@@ -6,4 +6,7 @@ coverage
 .git
 .gitignore
 .DS_Store
-npm-debug.log*
+npm-debug.log**.ps1
+docs/evidencias-tarea1-version2
+docs/evidencias-tarea2
+*.zip
