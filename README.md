@@ -95,7 +95,7 @@ Al ejecutar la imagen Docker, se deben ejecutar las pruebas automatizadas del co
 
 El resultado esperado es:
 
-8 passing
+5 passing
 
 Esto indica que las pruebas del contrato finalizaron correctamente.
 
@@ -122,7 +122,7 @@ Archivo Dockerfile dentro del repositorio.
 Imagen publicada en Docker Hub.
 Tag 1.0 publicado en Docker Hub.
 Ejecución de la imagen Docker.
-Resultado de pruebas exitosas mostrando 8 passing.
+Resultado de pruebas exitosas mostrando 5 passing.
 
 ## Conclusiones
 
