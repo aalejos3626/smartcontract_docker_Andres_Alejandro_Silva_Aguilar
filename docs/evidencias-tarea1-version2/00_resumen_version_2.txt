@@ -1,0 +1,20 @@
+﻿Version 2.0 publicada correctamente.
+
+GitHub:
+https://github.com/aalejos3626/smartcontract_docker_Andres_Alejandro_Silva_Aguilar
+
+Docker Hub:
+https://hub.docker.com/r/alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar
+
+Imagen Docker 2.0:
+alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0
+
+Imagen Docker latest:
+alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:latest
+
+Comandos de verificacion:
+docker pull alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0
+docker run --rm alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0
+
+Evidencias guardadas en:
+docs\evidencias-tarea1-version2

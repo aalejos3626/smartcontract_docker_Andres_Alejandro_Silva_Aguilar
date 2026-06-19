@@ -1,0 +1,7 @@
+﻿Comando ejecutado:
+git log --oneline -5
+
+Resultado:
+486868d Publica version 2.0 de la tarea 1
+61c3a57 Actualiza README para version 2.0
+a8dad61 Implementacion inicial de smart contract en Docker

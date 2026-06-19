@@ -1,0 +1,12 @@
+﻿Comando ejecutado:
+docker images | Select-String smartcontract_docker_andres_alejandro_silva_aguilar
+
+Resultado:
+
+alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:1.0      37783e42107a       1.26GB          356MB   U    
+alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0      e8c1a1bbc2ea       1.26GB          357MB        
+alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:latest   e8c1a1bbc2ea       1.26GB          357MB        
+smartcontract_docker_andres_alejandro_silva_aguilar:1.0                 37783e42107a       1.26GB          356MB   U    
+smartcontract_docker_andres_alejandro_silva_aguilar:2.0                 e8c1a1bbc2ea       1.26GB          357MB        
+
+

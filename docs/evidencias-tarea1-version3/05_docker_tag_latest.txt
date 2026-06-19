@@ -1,0 +1,4 @@
+﻿Comando ejecutado:
+docker tag smartcontract_docker_andres_alejandro_silva_aguilar:3.0 alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:latest
+
+Resultado:

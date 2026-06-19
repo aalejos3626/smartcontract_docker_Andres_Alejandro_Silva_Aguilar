@@ -1,0 +1,8 @@
+﻿Comando ejecutado:
+docker pull alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0
+
+Resultado:
+2.0: Pulling from alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar
+Digest: sha256:e8c1a1bbc2ea624c2dd9f08cfacafa9f6270d285ddbb99493c0fd76e7423da81
+Status: Image is up to date for alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0
+docker.io/alejos3626/smartcontract_docker_andres_alejandro_silva_aguilar:2.0
