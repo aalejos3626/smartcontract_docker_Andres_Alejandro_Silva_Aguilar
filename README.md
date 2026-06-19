@@ -95,7 +95,7 @@ Al ejecutar la imagen Docker, se deben ejecutar las pruebas automatizadas del co
 
 El resultado esperado es:
 
-5 passing
+8 passing
 
 Esto indica que las pruebas del contrato finalizaron correctamente.
 
